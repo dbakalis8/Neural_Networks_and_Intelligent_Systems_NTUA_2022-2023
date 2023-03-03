@@ -1,4 +1,4 @@
-# Neural Networks ntua(2022-2023)
+# Neural Networks and Intelligent Systems NTUA(2022-2023)
 
 This repository hosts the lab projects of the Neural Networks course held by ECE NTUA during the Winter 2022-2023.
 
